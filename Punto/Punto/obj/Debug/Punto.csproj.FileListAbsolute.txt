@@ -1,0 +1,9 @@
+E:\Punto\Punto\bin\Debug\Punto.exe.config
+E:\Punto\Punto\bin\Debug\Punto.exe
+E:\Punto\Punto\bin\Debug\Punto.pdb
+E:\Punto\Punto\obj\Debug\Punto.csprojResolveAssemblyReference.cache
+E:\Punto\Punto\obj\Debug\Punto.Form1.resources
+E:\Punto\Punto\obj\Debug\Punto.Properties.Resources.resources
+E:\Punto\Punto\obj\Debug\Punto.csproj.GenerateResource.Cache
+E:\Punto\Punto\obj\Debug\Punto.exe
+E:\Punto\Punto\obj\Debug\Punto.pdb
